@@ -2,6 +2,7 @@
 settings:
   name: Astra Trident
   platform: ''
+  downlevel: true
   internal:
     pdf_enabled: true
   prod:
