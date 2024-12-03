@@ -30,7 +30,7 @@ settings:
     - version-number: "22.07"
       url: /trident-2207
     - version-number: "22.01"
-      url: /trident-2201    
+      url: /trident-2201        
 sidebar:
   entries:
     - title: Astra Trident docs
